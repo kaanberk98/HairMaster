@@ -1,0 +1,20 @@
+C:\Users\MONSTER\source\repos\HairMasterDemo\bin\Debug\HairMasterDemo.exe.config
+C:\Users\MONSTER\source\repos\HairMasterDemo\bin\Debug\HairMasterDemo.exe
+C:\Users\MONSTER\source\repos\HairMasterDemo\bin\Debug\HairMasterDemo.pdb
+C:\Users\MONSTER\source\repos\HairMasterDemo\obj\Debug\HairMasterDemo.csprojAssemblyReference.cache
+C:\Users\MONSTER\source\repos\HairMasterDemo\obj\Debug\HairMasterDemo.Form1.resources
+C:\Users\MONSTER\source\repos\HairMasterDemo\obj\Debug\HairMasterDemo.Properties.Resources.resources
+C:\Users\MONSTER\source\repos\HairMasterDemo\obj\Debug\HairMasterDemo.csproj.GenerateResource.cache
+C:\Users\MONSTER\source\repos\HairMasterDemo\obj\Debug\HairMasterDemo.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\HairMasterDemo\obj\Debug\HairMasterDemo.exe
+C:\Users\MONSTER\source\repos\HairMasterDemo\obj\Debug\HairMasterDemo.pdb
+C:\Users\Kaan Berk BİLGİN\Source\Repos\HairMasterDemo\bin\Debug\HairMasterDemo.exe.config
+C:\Users\Kaan Berk BİLGİN\Source\Repos\HairMasterDemo\bin\Debug\HairMasterDemo.exe
+C:\Users\Kaan Berk BİLGİN\Source\Repos\HairMasterDemo\bin\Debug\HairMasterDemo.pdb
+C:\Users\Kaan Berk BİLGİN\Source\Repos\HairMasterDemo\obj\Debug\HairMasterDemo.csprojAssemblyReference.cache
+C:\Users\Kaan Berk BİLGİN\Source\Repos\HairMasterDemo\obj\Debug\HairMasterDemo.Form1.resources
+C:\Users\Kaan Berk BİLGİN\Source\Repos\HairMasterDemo\obj\Debug\HairMasterDemo.Properties.Resources.resources
+C:\Users\Kaan Berk BİLGİN\Source\Repos\HairMasterDemo\obj\Debug\HairMasterDemo.csproj.GenerateResource.cache
+C:\Users\Kaan Berk BİLGİN\Source\Repos\HairMasterDemo\obj\Debug\HairMasterDemo.csproj.CoreCompileInputs.cache
+C:\Users\Kaan Berk BİLGİN\Source\Repos\HairMasterDemo\obj\Debug\HairMasterDemo.exe
+C:\Users\Kaan Berk BİLGİN\Source\Repos\HairMasterDemo\obj\Debug\HairMasterDemo.pdb
